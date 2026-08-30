@@ -1,6 +1,6 @@
 {
     "name": "@2kog/pkg-common",
-    "version": "0.1.27",
+    "version": "0.1.28",
     "description": "2kog common package",
     "main": "main.js",
     "scripts": {
